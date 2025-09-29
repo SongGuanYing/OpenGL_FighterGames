@@ -1,0 +1,14 @@
+﻿cl : 命令列  warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+cl : 命令列  warning D9007: '/Gm' 需要 '/Zi 或 /ZI'，已忽略選項
+  load_3ds.cpp
+  load_bmp.cpp
+C:\Users\song9\Downloads\1112914宋冠穎\load_3ds.cpp(57,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\song9\Downloads\1112914宋冠穎\load_3ds.cpp(63,26): warning C4996: 'filelength': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _filelength. See online help for details.
+C:\Users\song9\Downloads\1112914宋冠穎\load_bmp.cpp(59,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+C:\Users\song9\Downloads\1112914宋冠穎\main.cpp(418,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\song9\Downloads\1112914宋冠穎\main.cpp(442,23): warning C4018: '<': signed/unsigned 不相符
+  mat_vect.cpp
+  object.cpp
+  正在產生程式碼...
+  1112914宋冠穎.vcxproj -> C:\Users\song9\Downloads\1112914宋冠穎\Debug\1112914宋冠穎.exe
